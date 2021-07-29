@@ -1,0 +1,3 @@
+def swapFileData():
+    print("This function is working")
+swapFileData()
